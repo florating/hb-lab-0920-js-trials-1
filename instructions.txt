@@ -1,0 +1,2 @@
+0920 lab instructions: https://fellowship.hackbrightacademy.com/materials/serft8/exercises/js-trials-1/
+0920 morning lecture: https://fellowship.hackbrightacademy.com/materials/serft8/lectures/js-lang-1/#operators
