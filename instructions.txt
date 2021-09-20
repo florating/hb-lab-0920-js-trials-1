@@ -1,2 +1,10 @@
-0920 lab instructions: https://fellowship.hackbrightacademy.com/materials/serft8/exercises/js-trials-1/
-0920 morning lecture: https://fellowship.hackbrightacademy.com/materials/serft8/lectures/js-lang-1/#operators
+#### HACKBRIGHT RESOURCES ####
+
+0920 lab instructions:
+https://fellowship.hackbrightacademy.com/materials/serft8/exercises/js-trials-1/
+
+0920 morning lecture (JavaScript 1):
+https://fellowship.hackbrightacademy.com/materials/serft8/lectures/js-lang-1/#operators
+
+0917 afternoon lecture (Testing):
+https://fellowship.hackbrightacademy.com/materials/serft8/lectures/testing/
